@@ -6,6 +6,6 @@ Security researcher working at the intersection of OT/ICS threat modeling, adver
 🧪 Building hands-on ICS/OT attack-and-detection labs (Modbus TCP, PLC simulation) — see pinned repos
 🤖 Adversarial ML researcher — GAOR (Network, 2025)
 🛡️ ISO/IEC 27001 Lead Implementer/Auditor · NIS2 · ICS/OT — translating technical findings into governance that holds up
-🌍 Ex-ERCIM Postdoctoral Fellow, VTT Finland — SOAR/threat-intel tooling (Wazuh, Cortex, MISP)
+🌍 Former ERCIM Postdoctoral Fellow, VTT Finland — SOAR/threat-intel tooling (Wazuh, Cortex, MISP)
 🔗 Creator, AI-TPRM Toolkit (open source) · Co-Founder, HappymentCoin
 📫 [contact] · ORCID: 0000-0003-2182-1505
