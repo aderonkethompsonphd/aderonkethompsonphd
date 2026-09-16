@@ -3,4 +3,4 @@
 - 🤖 Adversarial ML Researcher (GAOR, Network 2025) | 108 publications
 - 🌍 ERCIM Postdoctoral Fellow, VTT Finland (2022–2024)
 - 🔗 Co-Founder HappymentCoin | AI-TPRM Toolkit creator
-- 📫 aderthom@gmail.com | ORCID: 0000-0003-2182-1505
+- 📫 ORCID: 0000-0003-2182-1505
