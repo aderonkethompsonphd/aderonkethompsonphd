@@ -1,11 +1,11 @@
 # Aderonke Thompson, PhD
 
-Security researcher working at the intersection of **OT/ICS threat modeling**, **adversarial ML**, and **AI governance** — I build labs and tools to demonstrate how "protocol-valid" doesn't mean "safe," then translate that into the frameworks (ISO 27001, NIS2) meant to catch it.
+Applied AI and cybersecurity researcher working across trustworthy AI, ML optimisation, AI governance and industrial cybersecurity. I investigate complex technical problems, build practical tools and experimental environments, and translate findings into solutions that organisations can use.
 
-- 🎓 PhD, Information Security — adversarial robustness & threat modeling research
-- 🧪 Building hands-on ICS/OT attack-and-detection labs (Modbus TCP, PLC simulation) — see pinned repos
-- 🤖 Adversarial ML researcher — GAOR (*Network*, 2025)
-- 🛡️ ISO/IEC 27001 Lead Implementer/Auditor · NIS2 · ICS/OT — translating technical findings into governance that holds up
-- 🌍 Former ERCIM Postdoctoral Fellow, VTT Finland — SOAR/threat-intel tooling (Wazuh, Cortex, MISP)
-- 🔗 Creator, AI-TPRM Toolkit (open source) · Co-Founder, HappymentCoin
+- 🤖 Applied AI & ML — research in adversarial robustness, optimisation and trustworthy AI, including GAOR (Network, 2025)
+- 🧠 Responsible AI implementation — AI governance, risk assessment, human oversight and AI lifecycle controls
+- 🛡️ AI-TPRM Toolkit — open-source toolkit for assessing and managing third-party AI risk
+- 🧪 Industrial cybersecurity — hands-on OT/ICS experimentation with Modbus TCP and simulated industrial processes
+- 🔬 Research → practice — translating experimental findings and emerging technologies into practical organisational solutions
+- PhD in Computer Science (Information Security) · Former ERCIM Postdoctoral Fellow
 - 📫 [LinkedIn](www.linkedin.com/in/aderonke-thompson), [ORCID](https://orcid.org/0000-0003-2182-1505)
