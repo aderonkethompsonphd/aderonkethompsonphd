@@ -2,7 +2,7 @@
 
 Researcher working on how to assess, secure and govern AI systems, from enterprise vendors to frontier models, with a background in adversarial ML and industrial cybersecurity. I build practical tools and evidence-based frameworks that organisations and funders can use.
 
-- 🛡️ **Frontier AI governance:** third-party assurance, evaluations and incident reporting. Completed BlueDot Impact's Future of AI course; now in the Aalto AI Safety Fellowship AGI course
+- 🛡️ **Frontier AI governance:** third-party assurance, evaluations and incident reporting. Completed BlueDot Impact's Future of AI course.
 - 🧰 **[AI Assurance Toolkit](https://github.com/aderonkethompsonphd/ai-assurance-toolkit):** open-source toolkit for assessing third-party AI risk, with a draft frontier developer module
 - 🤖 **[AI Vendor Assurance Agent](https://github.com/aderonkethompsonphd/ai-vendor-assurance-agent):** an evidence-aware Copilot agent for vendor assessment with mandatory human approval, tested on contrasting scenarios
 - 🧠 **Adversarial robustness:** GAOR, a genetic algorithm-based method ([Network, 2025](https://doi.org/10.3390/network5010006))
